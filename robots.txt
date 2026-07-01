@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buenaparkpestcontrolco.com/sitemap.xml
